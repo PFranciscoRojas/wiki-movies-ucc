@@ -1,0 +1,3 @@
+- Película: Terminator 2: Judgment Day (1991)  
+- Curiosidad: James Cameron utilizó efectos visuales innovadores para dar vida al villano T-1000, un androide de metal líquido. Fue una de las primeras películas en usar ampliamente CGI realista, lo que marcó un antes y un después en Hollywood. Además, Arnold Schwarzenegger cobró un salario de más de 15 millones de dólares, lo que significa que cada palabra que pronunció en pantalla costó alrededor de 85.000 dólares. La producción también exigió grabar escenas nocturnas durante semanas, lo que fue agotador para el equipo.  
+- Fuente: https://es.wikipedia.org/wiki/The_Terminator

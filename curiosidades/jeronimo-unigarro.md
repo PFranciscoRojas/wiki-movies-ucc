@@ -1,0 +1,3 @@
+- Película: Duro de Matar (1988)  
+- Curiosidad: La icónica escena en la que John McClane (Bruce Willis) camina descalzo sobre vidrios rotos se volvió una de las más recordadas del cine de acción. Para rodarla sin lastimarse, el equipo de producción creó unas prótesis especiales en forma de pies falsos que Willis se colocaba como si fueran calcetines. Así podía moverse sobre los fragmentos sin peligro, aunque en pantalla parece completamente real. Esta secuencia ayudó a reforzar la vulnerabilidad del personaje, mostrando a un héroe humano que sangra y sufre, a diferencia de los típicos invencibles de la época.  
+- Fuente: https://www.imdb.com/es/title/tt0095016/
