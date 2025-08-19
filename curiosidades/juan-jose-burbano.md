@@ -1,8 +1,6 @@
-Película: Inception (2010)
-Curiosidad: Christopher Nolan tardó más de 10 años en escribir el guion de Inception.  
-Originalmente quería hacerla después de Memento, pero consideró que aún no tenía la experiencia suficiente para abordar una historia tan compleja.  
-El concepto de los sueños dentro de sueños se inspiró en las experiencias personales de Nolan con sueños lúcidos.  
-Además, se construyeron escenarios reales como el pasillo giratorio, en lugar de depender totalmente de efectos digitales.  
-Esto hizo que las escenas fueran mucho más inmersivas para los actores y el público.  
-
-Fuente: https://bit.ly/3qIncep
+🦇 The Dark Knight (2008)
+Heath Ledger se encerró seis semanas en un hotel para construir la personalidad del Joker.
+El truco de hacer desaparecer el lápiz en la mesa se rodó realmente, sin CGI.
+Ledger mantuvo un diario en el que escribía pensamientos retorcidos desde la perspectiva del Joker.
+El accidente del camión que voltea en la calle fue hecho en la vida real con un sistema de pistón.
+Tras la muerte de Ledger, Nolan decidió no volver a usar al Joker en las siguientes películas.
