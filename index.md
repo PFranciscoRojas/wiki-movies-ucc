@@ -1,6 +1,9 @@
 # Índice de Curiosidades
 
-(Agrega aquí tu enlace en orden alfabético por apellido)
 
+
+
+[francisco-rojas](curiosidades/pepito.md)
+[jeronimo-unigarro](curiosidades/jeronimo-unigarro.md)
 
 [Santiago Getial Ayala](curiosidades/santiago-getial-ayala.md)
