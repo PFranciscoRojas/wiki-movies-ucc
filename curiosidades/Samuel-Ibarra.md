@@ -1,0 +1,3 @@
+- Película: Interestelar (2014)
+- Curiosidad: Para recrear el agujero negro, Christopher Nolan contrató a un equipo de físicos liderados por Kip Thorne. Se usaron potentes computadoras y millones de dólares en simulaciones, lo que permitió generar una de las representaciones más realistas vistas en el cine. El modelo fue tan preciso que incluso ayudó a la ciencia a entender mejor cómo se vería un agujero negro real.
+- Fuente: https://www.latercera.com/que-pasa/noticia/kip-thorne-nobel-de-fisica-2017-interestelar-respeto-todas-las-leyes-de-la-fisica/4ACMNOE3TFGSBEAHLOSNH7UKLU/
