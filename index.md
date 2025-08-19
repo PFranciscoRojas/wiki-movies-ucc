@@ -1,3 +1,4 @@
 # Índice de Curiosidades
 
-[francisco-rojas](curiosidades/pepito.md)
+[Alejandro Galvez](curiosidades/alejandro-galvez.md)
+
