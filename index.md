@@ -1,3 +1,3 @@
 # Índice de Curiosidades
 
-(Agrega aquí tu enlace en orden alfabético por apellido)
+[francisco-rojas](curiosidades/pepito.md)
