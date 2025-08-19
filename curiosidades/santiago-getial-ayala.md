@@ -1,0 +1,3 @@
+- Película: El Señor de los Anillos: La Comunidad del Anillo (2001)  
+- Curiosidad: Durante la filmación, el actor Viggo Mortensen (Aragorn) decidió usar una espada real en lugar de una de utilería, para que sus escenas de combate se vieran más auténticas. En una de las batallas incluso se rompió un diente, pero pidió que se lo pegaran para continuar grabando. Además, en otra toma, al patear un casco de orco, realmente se fracturó dos dedos del pie, y el grito de dolor quedó en la película.  
+- Fuente: https://www.imdb.com/title/tt0120737/trivia/

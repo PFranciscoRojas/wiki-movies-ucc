@@ -1,0 +1,3 @@
+- Película: Pacific Rim (2013)
+- Curiosidad: Guillermo del Toro mandó construir un set real del cockpit de los Jaegers —conocido como Conn‑pod— montado sobre giroscopios hidráulicos para moverlo, sacudirlo y simular combates reales. Los actores describieron la experiencia como agotadora, al punto de sentirse “exhaustos y golpeados” luego de cada día de rodaje.
+- Fuente: https://www.cbr.com/pacific-rim-things-you-didnt-know-about-jaegers/
