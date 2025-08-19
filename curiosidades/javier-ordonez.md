@@ -1,5 +1,6 @@
 Película: Interestelar (2014)
 
-Curiosidad: El equipo de efectos visuales trabajó con el físico Kip Thorne para representar agujeros negros de forma realista.
+Curiosidad: Christopher Nolan contó con el físico teórico Kip Thorne para que toda la ciencia del guion se basara en teorías reales. Gracias a esto, los efectos visuales que simulan la luz alrededor de agujeros negros fueron tan exactos que inspiraron nuevos descubrimientos científicos sobre cómo se refracta la luz en esos entornos 
+infobae.
 
-Fuente: https://www.infobae.com/entretenimiento/2025/02/02/secretos-de-interestelar-curiosidades-que-hacen-unica-la-obra-maestra-de-christopher-nolan/
+Fuente: https://n9.cl/kngi2
