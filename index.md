@@ -8,3 +8,5 @@
 
 [Antonio-Parra](curiosidades/AntonioParra.md)
 [sara-ojeda](curiosidades/sara-ojeda.md)
+
+[Johan Delgado](curiosidades/Johan-Delgado.md)
