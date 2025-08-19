@@ -17,4 +17,4 @@
 
 [jacobo-solarte](curiosidades/jacobo-solarte.md)
 [Santiago Getial Ayala](curiosidades/santiago-getial-ayala.md)
-
+[javier-ordonez](curiosidades/javier-ordonez.md)
