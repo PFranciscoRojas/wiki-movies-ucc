@@ -9,5 +9,4 @@
 [Santiago Getial Ayala](curiosidades/santiago-getial-ayala.md)  
 [Antonio Parra](curiosidades/AntonioParra.md)  
 [sara-ojeda](curiosidades/sara-ojeda.md)  
-
-
+[Sebastian Ramos](curiosidades/SebastianRamos.md)
