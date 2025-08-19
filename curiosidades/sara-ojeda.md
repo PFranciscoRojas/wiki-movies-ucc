@@ -1,0 +1,3 @@
+Película: Matrix (1999)
+Curiosidad: Para la famosa escena de Neo esquivando las balas, el efecto de "tiempo bala" se logró utilizando 120 cámaras de fotografía fijas. Los actores se mantuvieron inmóviles mientras un sistema automatizado activaba cada cámara en secuencia, creando una animación fluida que parecía desafiar la gravedad. Además, las balas fueron creadas digitalmente, y el equipo de efectos especiales tuvo que escanear cada cámara y alinear los ángulos para que el efecto fuera perfecto.
+Fuente: https://bit.ly/3gP2nQ1
