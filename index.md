@@ -10,7 +10,10 @@
 
 [Valery Rosero](curiosidades/valery-rosero.md)
 
+
+
 [Danilo Carlosama](curiosidades/danilo-carlosama.md)
+
 
 
 
@@ -40,6 +43,10 @@
 
 [Johan Delgado](curiosidades/Johan-Delgado.md)
 
+
+
+
+[Francisco-molina](curiosidades/francisco-molina.md)
 
 [francisco-rojas](curiosidades/pepito.md)  
 [jeronimo-unigarro](curiosidades/jeronimo-unigarro.md)  
