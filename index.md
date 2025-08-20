@@ -59,3 +59,14 @@
 [sara-ojeda](curiosidades/sara-ojeda.md)  
 [Sebastian Ramos](curiosidades/SebastianRamos.md)
 
+
+[Antonio-Parra](curiosidades/AntonioParra.md)
+[sara-ojeda](curiosidades/sara-ojeda.md)
+
+[Johan Delgado](curiosidades/Johan-Delgado.md)
+
+
+
+
+[Samuel-Molina](curiosidades/Johan-Delgado.md)
+
